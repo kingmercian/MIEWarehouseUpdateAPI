@@ -1,0 +1,42 @@
+{
+  "beta": [
+    {
+      "name": "23/07/2019",
+      "version": "1.0.0",
+      "url": "https://todo.com/",
+      "notes": "Release Notes"
+    },
+    {
+      "name": "23/07/2019",
+      "version": "1.0.0",
+      "url": "https://todo.com/",
+      "notes": "Release Notes"
+    },
+    {
+      "name": "23/07/2019",
+      "version": "1.0.0",
+      "url": "https://todo.com/",
+      "notes": "Release Notes"
+    }
+  ],
+  "release": [
+    {
+      "name": "23/07/2019",
+      "version": "1.0.0",
+      "url": "https://todo.com/",
+      "notes": "Release Notes"
+    },
+    {
+      "name": "23/07/2019",
+      "version": "1.0.0",
+      "url": "https://todo.com/",
+      "notes": "Release Notes"
+    },
+    {
+      "name": "23/07/2019",
+      "version": "1.0.0",
+      "url": "https://todo.com/",
+      "notes": "Release Notes"
+    }
+  ]
+}
