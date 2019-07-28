@@ -21,20 +21,20 @@
   ],
   "release": [
     {
-      "name": "23/07/2019",
+      "name": "barcoding_1",
       "version": "1.0.0",
       "url": "https://bit.ly/2BOJEUE",
       "notes": "Release Notes"
     },
     {
-      "name": "23/07/2019",
-      "version": "1.0.0",
+      "name": "barcoding_2",
+      "version": "2.0.0",
       "url": "https://bit.ly/2BOJEUE",
       "notes": "Release Notes"
     },
     {
-      "name": "23/07/2019",
-      "version": "1.0.0",
+      "name": "barcoding_3",
+      "version": "3.0.0",
       "url": "https://bit.ly/2BOJEUE",
       "notes": "Release Notes"
     }
