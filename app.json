@@ -1,10 +1,10 @@
 {
   "release": [
     {
-      "name": "MIE Warehouse - Barcoding_2019_07_26",
-      "version": "1.0.1",
+      "name": "MIE Warehouse Updater",
+      "version": "1.0.0",
       "url": "https://drive.google.com/a/mie-solutions.co.uk/uc?authuser=0&id=16liB8zElccqcPo1b2oGO42iMaJt5HaSK&export=download",
-      "notes": "Initial Release\nThis is a test release"
+      "notes": "Initial Release\n"
     }
   ]
 }
