@@ -6,37 +6,13 @@
       "url": "https://bit.ly/2BOJEUE",
       "notes": "Release Notes"
     },
-    {
-      "name": "beta_2",
-      "version": "2.0.0",
-      "url": "https://bit.ly/2BOJEUE",
-      "notes": "Release Notes"
-    },
-    {
-      "name": "beta_3",
-      "version": "3.0.0",
-      "url": "https://bit.ly/2BOJEUE",
-      "notes": "Release Notes"
-    }
   ],
   "release": [
     {
-      "name": "barcoding_1",
-      "version": "1.0.0",
+      "name": "MIE Warehouse - Barcoding_2019_07_26",
+      "version": "2019_07_26",
       "url": "https://bit.ly/2BOJEUE",
-      "notes": "Release Notes"
+      "notes": "Fixed inventory transfer quantity keyboard hiding\nFixed picklist transaction duplication"
     },
-    {
-      "name": "barcoding_2",
-      "version": "2.0.0",
-      "url": "https://bit.ly/2BOJEUE",
-      "notes": "Release Notes"
-    },
-    {
-      "name": "barcoding_3",
-      "version": "3.0.0",
-      "url": "https://bit.ly/2BOJEUE",
-      "notes": "Release Notes"
-    }
   ]
 }
