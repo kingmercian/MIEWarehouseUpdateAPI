@@ -3,13 +3,13 @@
         {
       "name": "MIE Warehouse",
       "version": "2019_07_26",
-      "url": "https://srv-file5.gofile.io/download/c3umfc/app-debug.apk",
+      "url": "http://srv-file5.gofile.io/download/c3umfc/app-debug.apk",
       "notes": "Fixed inventory transfer quantity keyboard hiding\nFixed picklist transaction duplication"
     },
     {
       "name": "MIE Warehouse",
       "version": "2019_07_01",
-      "url": "https://srv-file5.gofile.io/download/c3umfc/app-debug.apk",
+      "url": "http://srv-file5.gofile.io/download/c3umfc/app-debug.apk",
       "notes": "Introduced centralised application settings"
     }
   ],
@@ -17,7 +17,7 @@
     {
       "name": "MIE Warehouse Beta 1",
       "version": "2019_07_26",
-      "url": "https://srv-file5.gofile.io/download/c3umfc/app-debug.apk",
+      "url": "http://srv-file5.gofile.io/download/c3umfc/app-debug.apk",
       "notes": "Fixed inventory transfer quantity keyboard hiding\nFixed picklist transaction duplication"
     }
   ]
