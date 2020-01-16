@@ -3,19 +3,19 @@
      {
       "name": "MIE Warehouse",
       "version": "2020.01.03",
-      "url": "https://mie-solutions.co.uk/wp-content/uploads/2020/01/com.mie_solutions.com.mobilewarehouse_2020_01_03.apk",
+      "url": "https://mie-solutions.co.uk/wp-content/uploads/MIEWarehouse/com.mie_solutions.com.mobilewarehouse_2020_01_03.apk",
       "notes": "•Master settings Password added \n•Additional Security set for Add, Modify, Delete"
     },
       {
       "name": "MIE Warehouse",
       "version": "2019.10.22",
-      "url": "https://a2.files.diawi.com/app-file/6RkqWIF2zAnYB71sPoxP.apk",
+      "url": "https://mie-solutions.co.uk/wp-content/uploads/MIEWarehouse/com.mie_solutions.com.mobilewarehouse_2019_10_22.apk",
       "notes": "•New menu UI \n•Shows correct user on Transactions \n•Fixed Invoice creation with no Sales Tax \n•Added Module security"
     },
      {
       "name": "MIE Warehouse",
       "version": "2019.07.26",
-      "url": "https://drive.google.com/a/mie-solutions.co.uk/uc?authuser=0&id=16liB8zElccqcPo1b2oGO42iMaJt5HaSK&export=download",
+      "url": "https://mie-solutions.co.uk/wp-content/uploads/MIEWarehouse/com.mie_solutions.com.mobilewarehouse_2019_07_26.apk",
       "notes": "•Fixed inventory transfer quantity keyboard hiding \n•Fixed picklist transaction duplication"
     }
   ],
@@ -23,7 +23,7 @@
     {
       "name": "MIE Warehouse Beta",
       "version": "2019.07.26",
-      "url": "https://drive.google.com/a/mie-solutions.co.uk/uc?authuser=0&id=16liB8zElccqcPo1b2oGO42iMaJt5HaSK&export=download",
+      "url": "https://mie-solutions.co.uk/wp-content/uploads/MIEWarehouse/com.mie_solutions.com.mobilewarehouse_2019_07_26.apk",
       "notes": "•Fixed inventory transfer quantity keyboard hiding \n•Fixed picklist transaction duplication"
     }
   ]
