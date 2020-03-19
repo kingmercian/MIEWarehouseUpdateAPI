@@ -5,6 +5,12 @@
       "version": "1.0.0",
       "url": "https://mie-solutions.co.uk/wp-content/uploads/MIEWarehouse/MIEWarehouseUpdater_1.0.0.apk",
       "notes": "•Initial Release \n"
+    },
+    {
+      "name": "MIE Warehouse Updater",
+      "version": "1.0.1",
+      "url": "https://mie-solutions.co.uk/wp-content/uploads/MIEWarehouse/MIEWarehouseUpdater_1.0.1.apk",
+      "notes": "•Changed API Server \n•Updated Icon \n"
     }
   ]
 }
